@@ -1,6 +1,6 @@
 # Reinforcement Learning Short Course
 
-This short course is made based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers. It has been recently used in HKU and ECNU. A longer version of the course is available in [LSE](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST455.htm). 
+This short course is made based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL [RL lecture series](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver) and some research papers. It has been recently used in HKU and ECNU. A longer version of the course is available in [LSE](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST455.htm). 
 
 Notes and coding materials are available in a separate folder for each lecture.
 
