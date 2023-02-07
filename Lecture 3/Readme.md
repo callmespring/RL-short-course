@@ -1,1 +1,1 @@
-# Lecture 3: Q Learning and beyond
+# Lecture 3: Q-Learning and Beyond
