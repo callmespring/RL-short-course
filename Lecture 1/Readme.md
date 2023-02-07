@@ -1,1 +1,1 @@
-# Lecture 1
+# Lecture 1: Foundations of Reinforcement Learning
