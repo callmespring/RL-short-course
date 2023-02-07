@@ -1,5 +1,7 @@
 # Reinforcement Learning Short Course
 
+This short course is made based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers. It has been recently used in HKU and ECNU. 
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
