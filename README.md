@@ -2,6 +2,18 @@
 
 This short course is made based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers. It has been recently used in HKU and ECNU. A longer version of the course is available in [LSE](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST455.htm). 
 
+Notes and coding materials are available in a separate folder for each lecture.
+
+### Lectures
+
+1. Foundations of Reinforcement Learning
+2. Planning and Learning
+3. Q-Learning and Beyond
+4. Policy- and Model-based Learning
+5. Offline Reinforcement Learning
+
+### Roadmap
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
