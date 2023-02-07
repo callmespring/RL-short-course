@@ -1,1 +1,1 @@
-# Lecture 2
+# Lecture 2: Planning and Learning
