@@ -14,7 +14,7 @@ Notes and coding materials are available in a separate folder for each lecture.
 
 ### Roadmap
 
-<img src="summary.png" width="700">
+<img src="summary.png" width="900">
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
