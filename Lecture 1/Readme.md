@@ -1,12 +1,11 @@
 # Lecture 1: Foundations of Reinforcement Learning
 
-### 1. Implementation of Multi-armed Bandits algorithms
-* $\epsilon$-greedy
-* Upper Confidence Bound
-* Thompson Sampling
+### 1. Introduction to Reinforcement Learning
+* Multi-armed Bandits
+* Contextual Bandits
 
-### 2. Implementation of the Tiger Problem
-* stationary policy
-* history-dependent policy
+### 2. Markov Decision Processes (MDPs)
+* Time-varying MDPs
+* Partially Observable MDPs
 
-### 3. Proof of the Existence of the Optimal Stationary Policy in MDPs
+### 3. Existing of the Optimal Stationary Policy
