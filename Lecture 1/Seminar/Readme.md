@@ -6,7 +6,7 @@
 * Thompson Sampling
 
 ### 2. Implementation of the Tiger Problem
-* Stationary policy
-* History-dependent policy
+* Stationary Policy
+* History-dependent Policy
 
 ### 3. Proof of the Existence of the Optimal Stationary Policy in MDPs
