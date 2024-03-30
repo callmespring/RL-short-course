@@ -8,3 +8,6 @@
 
 ### 3. Dyna-Q
 * The Maze Example
+
+### 4. AlphaGo Zero
+* Gomoku
