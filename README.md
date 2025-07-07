@@ -1,6 +1,6 @@
 # Reinforcement Learning Short Course
 
-This short course is made based on materials in [Sutton and Barto (2018)](http://incompleteideas.net/book/RLbook2020.pdf), [Puterman (1994)](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887), [DeepMind & UCL RL lecture series](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver) and some research papers. It was recently used in HKU, University of Macau, Tsinghua University, NKU, SWUFE, ECNU, SDU, ZJU and RUC. A longer version of the course is available in [LSE](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST455.htm). 
+This short course is made based on materials in [Sutton and Barto (2018)](http://incompleteideas.net/book/RLbook2020.pdf), [Puterman (1994)](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887), DeepMind & UCL RL lecture series and some research papers. It was recently used in HKU, University of Macau, Tsinghua University, NKU, SWUFE, ECNU, SDU, ZJU and RUC. A longer version of the course is available in [LSE](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST455.htm). 
 
 Slides and other materials are available in a separate folder for each lecture.
 
