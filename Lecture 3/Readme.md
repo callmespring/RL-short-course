@@ -8,6 +8,10 @@
 
 <img src="NN.png" width="900">
 
+Taken from Minh et al. (2015, *Nature*)
+
 ### 4. Case Study II: TD Learning in Ridesharing Platforms
 
 <img src="TDrule.png" width="900">
+
+Taken from Xu et al. (2018, *KDD*)
