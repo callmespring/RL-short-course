@@ -6,7 +6,7 @@
 * REINFORCE and Actor Critic Algorithms
 * Advantage Actor Critic
 
-<img src="AC.png" width="600">
+<img src="AC.png" width="500">
 
 ### 2. Model-based Learning
 * Introduction to Model-based Learning
