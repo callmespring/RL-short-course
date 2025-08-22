@@ -9,3 +9,5 @@
 * Partially Observable MDPs
 
 ### 3. Existing of the Optimal Stationary Policy
+
+<img src="summary.png" width="900">
